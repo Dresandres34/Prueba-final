@@ -1,0 +1,34 @@
+#parrafo1{
+    color: rgb(236,192,132);
+}
+
+#parrafo2{
+    background-color: rgb(30, 228, 228);
+}
+
+/*clases*/
+.letraVerde{
+    color: rgb(18,168,61);
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#contTabla{
+    text-align: center;
+    margin-left: 50%;
+    background-color: rgba(0, 132, 255, 0.445);
+}
+
+table, tr, td, th{
+    border: 1px solid;
+    border-color: red;
+    
+}
+
+table{
+    width: 50%;
+    height: 50%;
+}
+
